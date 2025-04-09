@@ -23,7 +23,7 @@ Um código em Python que utiliza bibliotecas externas comuns nos estudos de ciê
 O projeto não possui público alvo, pois não é feito para atender um público específico.
 
 ## c. Objetivo do projeto
-Predição da nota de estudantes que irão fazer o Enem através da criação de algoritmos de aprendizado de máquinas com base em dados do Enem-2023 disponibilzados em um dataset aberto.
+Predição da nota de inscritos no Enem através da criação de algoritmos de aprendizado de máquinas com base em dados do Enem-2023 disponibilizados em um dataset aberto.
 
 ## d. Escopo do produto
 #### Descrição do produto (MVP):
