@@ -17,7 +17,7 @@ O projeto foi idealizado em 03/04/2025.
 
 # 2.Introdução
 ## a. Descrição da visão geral do projeto
-Um código em Python que utiliza bibliotecas externas comuns nos estudos de ciência de dados. Este código será utilizado para analisar e compreender os microdados do ENEM-2023 através do processo de Machine Learning.
+Um código em Python que utiliza bibliotecas externas comuns nos estudos de ciência de dados. Este código será utilizado para analisar e compreender os microdados do Enem-2023 através do processo de Machine Learning.
 
 ## b. Público alvo
 O projeto não possui público alvo, pois não é feito para atender um público específico.
@@ -42,7 +42,7 @@ O estudo terá como objetivo investigar a relação entre diversas característi
 
 #### Critérios de aceite
 ##### Qualitativos:
-  - O estudo deve apresentar uma análise clara, explicando a metologia e os resultados obtidos;
+  - O estudo deve apresentar uma análise clara, explicando a metodologia e os resultados obtidos;
   - As visualizações dos resultados das análises devem ser facilmente interpretáveis e informativas.
 ##### Quantitativos: 
   -  O modelo de predição deve ter uma taxa erro inferior a 100 pontos em um conjunto de testes;
@@ -93,7 +93,7 @@ Compreender a razão das médias dos inscritos com base em dados específicos.
 ## d. Métricas para monitoração e acompanhamento do projeto *faltando*
 
 ## e. Instruções para download e execução do sistema
-O projeto não possuirá instruções para dowload e execução de sistema, pois não é feito para atender algum público.
+O projeto não possuirá instruções para download e execução de sistema, pois não é feito para atender algum público.
 
 ## f. Licença de uso e distribuição
 O projeto não possuirá licença de uso e distribuição, pois não é feito para atender algum público.
