@@ -27,7 +27,7 @@ Predição da nota de inscritos no Enem através da criação de algoritmos de a
 
 ## d. Escopo do produto
 #### Descrição do produto (MVP):
-O estudo terá como objetivo investigar a relação entre diversas características dos estudantes e as notas que eles obtiveram no  2023, utilizando algoritmos de aprendizado de máquina para prever notas.
+O estudo terá como objetivo investigar a relação entre diversas características dos estudantes e as notas que eles obtiveram no Enem 2023, utilizando algoritmos de aprendizado de máquina para prever notas.
  - Coleta e análise dos dados do dataset do Enem 2023;
  - Uso de algoritmos de aprendizado de máquina (como KNN e random forest) para a predição de notas;
  - Avaliação da eficácia dos modelos em prever notas.
