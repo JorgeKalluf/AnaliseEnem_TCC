@@ -48,7 +48,7 @@ O estudo terá como objetivo investigar a relação entre diversas característi
   -  O modelo de predição deve ter uma taxa erro inferior a 100 pontos em um conjunto de testes;
   -  As previsões devem ser avaliadas quanto à sua precisão, buscando um índice de precisão acima de 80% em relação a um conjunto de dados de validação.
 
-#### Matriz de riscos
+#### e. Matriz de riscos
 | Id risco | Descrição do risco | Probabilidade | Impacto | Plano de resposta | Status do risco |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  |Qualidade dos Dados: dados incompletos ou com erros|Alta|Alto|Realizar análises e pré-processamento|Atualmente sem risco|
@@ -57,7 +57,7 @@ O estudo terá como objetivo investigar a relação entre diversas característi
 
 
 # 3. Design de software
-Nosso projeto não possuirá interfaces, pois não é feito para um público utilizá-lo.
+O projeto não possuirá interfaces, pois não é feito para um público utilizá-lo.
 
 
 # 4. Organização do projeto
@@ -90,4 +90,12 @@ Nosso projeto não possuirá interfaces, pois não é feito para um público uti
 ## c. Resultados esperados
 Compreender a razão das médias dos inscritos com base em dados específicos. 
 
-## d. Métricas para monitoração e acompanhamento do projeto 
+## d. Métricas para monitoração e acompanhamento do projeto *faltando*
+
+## e. Instruções para download e execução do sistema
+O projeto não possuirá instruções para dowload e execução de sistema, pois não é feito para atender algum público.
+
+## f. Licença de uso e distribuição
+O projeto não possuirá licença de uso e distribuição, pois não é feito para atender algum público.
+
+## B) *faltando*
