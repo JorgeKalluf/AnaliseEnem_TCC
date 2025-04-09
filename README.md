@@ -6,9 +6,9 @@ O projeto não possui uma identidade visual, pois não é feito para atender alg
 O projeto não possui redes sociais, pois não é feito para atender algum público.
 
 ## c. Organização da equipe
-#### Miguel:
+#### Miguel Rodrigues:
 Responsável por pesquisar referencial teórico para a elaboração do documento e pela produção do código back-end em Python.
-#### Jorge:
+#### Jorge Kalluf:
 Responsável por pesquisar referencial teórico para a elaboração do documento e pela produção do código back-end em Python.
 
 ## d. Data da criação do projeto
