@@ -70,7 +70,7 @@ O projeto não possuirá interfaces, pois não é feito para um público utiliz�
 | 5  | Validação do modelo  | 10/06/2025 | 30/06/2025 |
 | 6  | Análise de resultados e interpretação do modelo  | 30/06/2025 | 20/07/2025 
 
-## b.Quadro kanban (trello/jira) *faltando*
+## b. Quadro kanban (trello/jira) *faltando*
 
 ## c. Relatório de desempenho *faltando*
 
@@ -80,7 +80,7 @@ O projeto não possuirá interfaces, pois não é feito para um público utiliz�
 # 5. Metodologia de desenvolvimento
 ## A) a. Processos de software *faltando*
 
-## b.Recursos utilizados
+## b. Recursos utilizados
   - Tecnologias: Jupyter Notebook;
   - Ferramenta de apoio: Stack Overflow;
   - Linguagem de programação: Python;
