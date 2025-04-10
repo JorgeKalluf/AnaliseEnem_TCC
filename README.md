@@ -32,7 +32,7 @@ O estudo terá como objetivo investigar a relação entre diversas característi
  - Uso de algoritmos de aprendizado de máquina (como KNN e random forest) para a predição de notas;
  - Avaliação da eficácia dos modelos em prever notas.
 
-#### Principais entregas
+#### Principais entregas:
 1. Um relatório de análise dos dados que explore correlações entre variáveis;
    - Ex: A relação entre o tipo de escola (pública ou privada) e os dados de cor/raça vão influenciar as previsões geradas pelo algoritmo de aprendizado de máquina.
 
