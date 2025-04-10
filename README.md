@@ -51,7 +51,7 @@ O estudo terá como objetivo investigar a relação entre diversas característi
 #### e. Matriz de riscos
 | Id risco | Descrição do risco | Probabilidade | Impacto | Plano de resposta | Status do risco |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  |Qualidade dos Dados: dados incompletos ou com erros|Alta|Alto|Realizar análises e pré-processamento|Atualmente sem risco|
+| 1  |Qualidade dos Dados: dados incompletos ou com erros|Alta|Alto|Realizar análises e pré-processamento dos dados|Atualmente sem risco|
 | 2  |Interpretabilidade dos Resultados|Média|Alto|Conter explicações claras no relatório que contenham gráficos de fácil entendimento|Atualmente sem risco|
 | 3  |Seleção Inadequada de Variáveis: Escolha de variáveis irrelevantes ou redundantes|Baixa|Alto|Realizar uma análise de correlação e seleção de variáveis antes de treinar o modelo|Atualmente sem risco|
 
