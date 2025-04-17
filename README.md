@@ -1,31 +1,22 @@
 # 1. Identificação
-## a. Identidadade visual
-O projeto não possui uma identidade visual, pois não é feito para atender algum público.
-
-## b. Redes sociais
-O projeto não possui redes sociais, pois não é feito para atender algum público.
-
-## c. Organização da equipe
+## Organização da equipe
 #### Miguel Rodrigues:
 Responsável por pesquisar referencial teórico para a elaboração do documento e pela produção do código back-end em Python.
 #### Jorge Kalluf:
 Responsável por pesquisar referencial teórico para a elaboração do documento e pela produção do código back-end em Python.
 
-## d. Data da criação do projeto
+## Data da criação do projeto
 O projeto foi idealizado em 03/04/2025.
 
 
 # 2.Introdução
-## a. Descrição da visão geral do projeto
+## Descrição da visão geral do projeto
 Um código em Python que utiliza bibliotecas externas comuns nos estudos de ciência de dados. Este código será utilizado para analisar e compreender os microdados do Enem-2023 através do processo de Machine Learning.
 
-## b. Público alvo
-O projeto não possui público alvo, pois não é feito para atender um público específico.
-
-## c. Objetivo do projeto
+## Objetivo do projeto
 Predição da nota de inscritos no Enem através da criação de algoritmos de aprendizado de máquinas com base em dados do Enem-2023 disponibilizados em um dataset aberto.
 
-## d. Escopo do produto
+## Escopo do produto
 #### Descrição do produto (MVP):
 O estudo terá como objetivo investigar a relação entre diversas características dos estudantes e as notas que eles obtiveram no Enem 2023, utilizando algoritmos de aprendizado de máquina para prever notas.
  - Coleta e análise dos dados do dataset do Enem 2023;
@@ -48,7 +39,7 @@ O estudo terá como objetivo investigar a relação entre diversas característi
   -  O modelo de predição deve ter uma taxa erro inferior a 100 pontos em um conjunto de testes;
   -  As previsões devem ser avaliadas quanto à sua precisão, buscando um índice de precisão acima de 80% em relação a um conjunto de dados de validação.
 
-#### e. Matriz de riscos
+#### Matriz de riscos
 | Id risco | Descrição do risco | Probabilidade | Impacto | Plano de resposta | Status do risco |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  |Qualidade dos Dados: dados incompletos ou com erros|Alta|Alto|Realizar análises e pré-processamento dos dados|Atualmente sem risco|
@@ -56,12 +47,8 @@ O estudo terá como objetivo investigar a relação entre diversas característi
 | 3  |Seleção Inadequada de Variáveis: escolha de variáveis irrelevantes ou redundantes|Baixa|Alto|Realizar uma análise de correlação e seleção de variáveis antes de treinar o modelo|Atualmente sem risco|
 
 
-# 3. Design de software
-O projeto não possuirá interfaces, pois não é feito para um público utilizá-lo.
-
-
 # 4. Organização do projeto
-## a. Cronograma
+## Cronograma
 | Id da atividade  | Atividade | Data de início | Data de término |
 | ------------- | ------------- | ------------- | ------------- | 
 | 1  | Análise da qualidade dos dados  | 08/04/2025 | 15/04/2025 | 
@@ -80,7 +67,7 @@ O projeto não possuirá interfaces, pois não é feito para um público utiliz�
 # 5. Metodologia de desenvolvimento
 ## A) a. Processos de software *faltando*
 
-## b. Recursos utilizados
+## Recursos utilizados
   - Tecnologias: Jupyter Notebook;
   - Ferramenta de apoio: Stack Overflow;
   - Linguagem de programação: Python;
@@ -92,10 +79,5 @@ Compreender a razão das médias dos inscritos com base em dados específicos.
 
 ## d. Métricas para monitoração e acompanhamento do projeto *faltando*
 
-## e. Instruções para download e execução do sistema
-O projeto não possuirá instruções para download e execução de sistema, pois não é feito para atender algum público.
-
-## f. Licença de uso e distribuição
-O projeto não possuirá licença de uso e distribuição, pois não é feito para atender algum público.
 
 ## B) *faltando*
