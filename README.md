@@ -9,7 +9,7 @@ Responsável por pesquisar referencial teórico para a elaboração do documento
 O projeto foi idealizado em 03/04/2025.
 
 
-# 2.Introdução
+# 2. Introdução
 ## Descrição da visão geral do projeto
 Um código em Python que utiliza bibliotecas externas comuns nos estudos de ciência de dados. Este código será utilizado para analisar e compreender os microdados do Enem-2023 através do processo de Machine Learning.
 
