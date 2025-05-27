@@ -86,7 +86,7 @@ Compreender as razões por trás das médias de notas dos inscritos com base em 
 
 ---
 
-#### 📋 **Quadro Kanban** (Trello)
+### 📋 **Quadro Kanban** (Trello)
 https://trello.com/invite/b/6835ce441dd11de0b61badf8/ATTIe7468dfab3318c136d28c006f90c7ffd8F397B37/analise-de-dados-enem-2023
 
 ### 📄 **Pré-projeto**
