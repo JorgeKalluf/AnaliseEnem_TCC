@@ -66,9 +66,6 @@ O estudo irá investigar a relação entre diversas características dos estudan
 | 5  | Validação do modelo  | 10/06/2025 | 30/06/2025 |
 | 6  | Análise de resultados e interpretação do modelo  | 30/06/2025 | 20/07/2025 |
 
-#### 📋 **Quadro Kanban** (Trello)
-https://trello.com/invite/b/6835ce441dd11de0b61badf8/ATTIe7468dfab3318c136d28c006f90c7ffd8F397B37/analise-de-dados-enem-2023
-
 ---
 
 ## 4. Metodologia de desenvolvimento
