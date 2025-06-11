@@ -72,8 +72,8 @@ O estudo irá investigar a relação entre diversas características dos estudan
 
 ### ⚙️ **Recursos utilizados**
 
-- **Tecnologias**: Jupyter Notebook;
-- **Ferramenta de apoio**: Stack Overflow;
+- **Tecnologias**: Google Colab, Google Drive;
+- **Ferramenta de apoio**: Stack Overflow, W3Schools;
 - **Linguagem de programação**: Python;
 - **Equipamentos**: Desktop e notebook;
 - **Rede**: Rede local e nuvem.
@@ -83,11 +83,12 @@ Compreender as razões por trás das médias de notas dos inscritos com base em 
 
 ---
 
+
 ### 📋 **Quadro Kanban** (Trello)
 https://trello.com/invite/b/6835ce441dd11de0b61badf8/ATTIe7468dfab3318c136d28c006f90c7ffd8F397B37/analise-de-dados-enem-2023
 
 ### 📄 **Pré-projeto**
-[ENELYTICS - Documento do Projeto de Pesquisa.pdf](https://github.com/user-attachments/files/20460438/ENELYTICS.-.Documento.do.Projeto.de.Pesquisa.pdf)
+[ENELYTICS - Documento do Projeto de Pesquisa.pdf](https://github.com/user-attachments/files/20689899/ENELYTICS.-.Documento.do.Projeto.de.Pesquisa.pdf)
 
 ### 🖼️ **Diagrama de atividades**
 ![diagrama enelytics](https://github.com/user-attachments/assets/fbd04ed7-f56a-4919-b32c-1e194b22367d)
