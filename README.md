@@ -91,4 +91,4 @@ https://trello.com/invite/b/6835ce441dd11de0b61badf8/ATTIe7468dfab3318c136d28c00
 [ENELYTICS - Documento do Projeto de Pesquisa.pdf](https://github.com/user-attachments/files/20689899/ENELYTICS.-.Documento.do.Projeto.de.Pesquisa.pdf)
 
 ### 🖼️ **Diagrama de atividades**
-![diagrama enelytics](https://github.com/user-attachments/assets/fbd04ed7-f56a-4919-b32c-1e194b22367d)
+![diagrama enelytics](https://github.com/user-attachments/assets/032599d5-a148-426d-9ead-a0bcb2036d73)
